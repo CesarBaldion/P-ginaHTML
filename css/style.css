@@ -1,0 +1,167 @@
+.img
+{
+    background-image: url("file:///C:/Users/cesar/Documents/PaginaWeb/img/Background.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    padding: 150px;
+   }
+
+   .container{
+    margin: 0px;
+    max-width: 1200px;
+    padding: 10px;
+    justify-content:space-between;
+  }
+
+  .header{
+    display: flex;
+    justify-content:space-between;
+    align-items:center;
+  }
+
+  .slogan
+  {
+    color:white;
+    font-family:'Quicksand',sans-serif;
+    font-size:40px;
+    font-weight:bold;
+  }
+  .logo{
+    background-image:url("file:///C:/Users/cesar/Documents/PaginaWeb/img/Logo.png");
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:393px;
+    height:180px;
+  }
+
+  .modulos
+  {
+    text-align:center;
+  }
+  .tituloModulos
+  {
+    font-family:'Quicksand',sans-serif;
+    font-size:40px;
+    text-align:center;
+    margin-top:90px;
+    color: #6395BB;
+  }
+  .icon-list
+  {
+    display:flex;
+    flex-wrap:wrap;
+  }
+  .three-icon
+  {
+    flex:1;
+    padding:30px;
+  }
+  .icon-title
+  {
+     font-family:'Quicksand',sans-serif;
+     color: #6395BB;
+   }
+  .icon-description
+  {
+     display: block;
+     text-align:center;
+     font-family:'Quicksand',sans-serif;
+     color:#000000b3;
+     font-weight:500;
+     font-size:15px;
+     } 
+  .icon1-img
+  {
+    background-repeat:no-repeat;
+   background-size:cover;
+   width:120px;
+   height:120px;
+ }
+
+
+nav 
+{
+    max-width: 95%;
+    margin: 0 auto;
+    padding: 20px 0;
+    overflow: hidden;
+}
+
+.cajaLogo 
+    {
+        float: left;
+        margin-left: 10px;
+    }
+
+
+.a-logo 
+{
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    
+}
+
+#iconoMenu
+{
+    width: 762x;
+    height: 120px;
+}
+
+.ul-0 
+{
+    margin: 0;
+    margin-right: 25px;
+    padding-left: 0;
+    list-style: none;
+    float: right;
+    height: 70px;
+    line-height: 70px;
+    text-align:center;
+}
+
+.ventajas
+{
+  background-color:#fbfbfb;
+ 
+ }
+ .cajaVentajas{
+   display:flex;
+   flex-wrap:wrap;
+   align-items:center;
+   padding: 20px 0;
+ }
+ .imgVentajas{
+  max-width:540px;
+ width:100%;  
+ }
+
+ .information
+ {
+  flex:1;
+    padding-left:70px;
+  }
+  .info-all
+  {
+    color:#000000b3;
+    margin-bottom:20px;
+    line-height:1.4;
+    font-size:17px;
+    text-align: center;
+  }
+ 
+
+
+
+  .st0{fill:#F0C4DB;}
+	.st1{fill:#FF9D9C;}
+	.st2{fill:#9BEAF9;}
+	.st3{fill:#E9F4BC;}
+	.st4{fill:#505050;}
+	.st5{fill:#FEBECC;}
+	.st6{fill:#FFFFFF;}
+	.st7{fill:#FDE4A1;}
+	.st8{fill:#FEE7B5;}
+	.st9{fill:#CDF6FC;}
+	.st10{fill:#F2C6DD;}
+	.st11{opacity:0.1;}
